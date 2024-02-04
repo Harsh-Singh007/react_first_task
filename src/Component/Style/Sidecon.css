@@ -1,0 +1,32 @@
+.sidecon{
+    display: inline-block;
+}
+.menu ,.block{
+    width: 300px;
+    background-color:antiquewhite ;
+    margin: 5px 15px ;
+    display: flex;
+    flex-direction: column;
+    padding: 18px;
+
+}
+.menu li{
+    list-style-type:square;
+    margin-left: 10px;
+    padding: 5px;
+    text-decoration: underline;
+    
+}
+
+.sidecon h1{
+    font-size: 30px;
+    margin: 5px 15px;
+    background-color: rgb(186, 238, 84);
+    padding: 18px;
+    display: inline-block;
+    width: 300px;
+}
+.block p,h4{
+    margin-left: 10px;
+    
+}

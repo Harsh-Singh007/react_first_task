@@ -1,0 +1,22 @@
+.header{
+  
+    padding: 30px 20px;
+    background-color: #f7ec13;
+    height: 100px;
+   
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+    margin-right:150px ;
+}
+.title{
+    font-size: 40px;
+   
+}
+.slogan{
+    font-size: 20px;
+   margin-right: 102px;
+}

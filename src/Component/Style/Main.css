@@ -1,0 +1,31 @@
+.main{
+    width: calc(100% - 420px);
+    height: 685px;
+
+float: right;
+margin-top: 5px;
+margin-right: 15px;
+padding: 18px;
+
+border-left: 2px solid antiquewhite ;
+}
+.bottom{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    
+}
+.bottom .right{
+    padding-left: 18px;
+    border-left: 2px solid antiquewhite ;
+}
+
+.bottom button{
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(204, 228, 63);
+    border: 2px solid rgb(145, 156, 23);
+    border-left: 0px;
+}
